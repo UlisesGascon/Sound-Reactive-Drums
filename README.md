@@ -34,4 +34,4 @@ Versión básica desarrollada en un cubo de plástico para mejorar la movilidad.
 - Incluido:
 En esta prueba de concepto solamente se incluye una tira de Leds NeoPixel de 1m (pin 6) y un micrófono (pin A0). Se incluyen calculos básicos para transformar el sonido en iluminación.
 
-![foto_prototipo](fotos/prototipo1.jpg)
+![foto_prototipo](fotos/prototipo_1.jpg)
