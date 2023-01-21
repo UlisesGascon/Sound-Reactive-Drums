@@ -1,6 +1,15 @@
 # AROHA-Sound-Reactive-Drums
 ![foto_grupo](fotos/aroha_portada.jpg)
 
+
+### Vídeos en acción 🥁
+
+- 📺 [Perspectiva del usuario](https://www.youtube.com/watch?v=t_7zO0Y9q5s)
+- 📺 [Modo diurno](https://www.youtube.com/watch?v=eaP9yudb89k)
+- 📺 [Modo serpiente de color](https://www.youtube.com/watch?v=hndoVgqUtK0)
+- 📺 [Modo Nocturno](https://www.youtube.com/watch?v=u_IlmUltSVo)
+
+
 ### Batería
 
 Todo el proyecto se desarrolla sobre esta batería
